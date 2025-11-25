@@ -19,4 +19,4 @@
 6. Monthly review: update README/PLAN as needed.
 
 ## Contact
-Your Name — nsg5403@psu.edu
+Navya Gopal — nsg5403@psu.edu
